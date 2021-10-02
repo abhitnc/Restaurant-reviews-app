@@ -11,7 +11,7 @@ The started code is forked from Udacity for a restaurant reviews website.
 The project work has improved below three areas:
 - Responsive Design,
 - Accessibility and
-- Offline Use.
+- Offline Use 2.
 
 ## How to launch the app locally?
 To run this example you'll need to use a local server. The easiest way to do so is to use the chrome extension but
